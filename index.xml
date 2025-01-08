@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adaptatech</title>
+    <link>/</link>
+    <description>Recent content on Adaptatech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Aucun copyright</copyright>
+    <lastBuildDate>Sat, 30 Dec 2023 08:39:33 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ressources</title>
+      <link>/ressources/</link>
+      <pubDate>Sat, 30 Dec 2023 08:39:33 -0500</pubDate>
+      
+      <guid>/ressources/</guid>
+      <description>Ressources diverses disponible sur internet.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/ressources/Featured.png" />
+    </item>
+    
+    <item>
+      <title>Accès ordinateur</title>
+      <link>/cr%C3%A9ateurs/acc%C3%A8s-ordinateur/</link>
+      <pubDate>Sat, 30 Dec 2023 08:31:54 -0500</pubDate>
+      
+      <guid>/cr%C3%A9ateurs/acc%C3%A8s-ordinateur/</guid>
+      <description>Appareil qui permet d&amp;rsquo;utiliser des switchs adaptées avec un PC ou un autre appareil compatible HID.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cr%C3%A9ateurs/acc%C3%A8s-ordinateur/featured_Acces%20ordinateur.jpg" />
+    </item>
+    
+    <item>
+      <title>Blog4</title>
+      <link>/posts/blog4/</link>
+      <pubDate>Sat, 30 Dec 2023 08:31:54 -0500</pubDate>
+      
+      <guid>/posts/blog4/</guid>
+      <description>sad</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/blog4/featured.png" />
+    </item>
+    
+    <item>
+      <title>Imprimante 3D</title>
+      <link>/base-de-connaissances/imprimante-3d/</link>
+      <pubDate>Sat, 30 Dec 2023 08:31:54 -0500</pubDate>
+      
+      <guid>/base-de-connaissances/imprimante-3d/</guid>
+      <description>Résumé des différents aspects du processus d&amp;rsquo;impression 3D et du fonctionnement d&amp;rsquo;un de ces appareils dans le contexte de la création de matériel adapté.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/base-de-connaissances/imprimante-3d/featured.png" />
+    </item>
+    
+    <item>
+      <title>Initiation à la programmation physique</title>
+      <link>/base-de-connaissances/initiation-%C3%A0-la-programmation-physique/</link>
+      <pubDate>Sat, 30 Dec 2023 08:31:54 -0500</pubDate>
+      
+      <guid>/base-de-connaissances/initiation-%C3%A0-la-programmation-physique/</guid>
+      <description>Comment programmer des switchs adaptées utilisant une technologie digitale.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/base-de-connaissances/initiation-%C3%A0-la-programmation-physique/featured_progphysique.webp" />
+    </item>
+    
+    <item>
+      <title>Intelligence artificielle</title>
+      <link>/blog/intelligence-artificielle/</link>
+      <pubDate>Sat, 30 Dec 2023 08:31:54 -0500</pubDate>
+      
+      <guid>/blog/intelligence-artificielle/</guid>
+      <description>L&amp;rsquo;impact de l&amp;rsquo;intelligence artificielle sur l&amp;rsquo;amélioration de la qualité de vie et le renforcement de l&amp;rsquo;autonomie des personnes en situation de handicap et sur le processus de création de matériel adapté.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/blog/intelligence-artificielle/featured_coverai.webp" />
+    </item>
+    
+    <item>
+      <title>Le coût du matériel adapté</title>
+      <link>/blog/le-co%C3%BBt-du-mat%C3%A9riel-adapt%C3%A9/</link>
+      <pubDate>Sat, 30 Dec 2023 08:31:54 -0500</pubDate>
+      
+      <guid>/blog/le-co%C3%BBt-du-mat%C3%A9riel-adapt%C3%A9/</guid>
+      <description>Réflexion sur le prix du matériel adapté pour les personnes en situation de handicap, tels que les appareils de communication ou les interrupteurs.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/blog/le-co%C3%BBt-du-mat%C3%A9riel-adapt%C3%A9/featured%20prix.png" />
+    </item>
+    
+    <item>
+      <title>Principe de fonctionnement des switchs adaptées</title>
+      <link>/base-de-connaissances/principe-de-fonctionnement-des-switchs-adapt%C3%A9es/</link>
+      <pubDate>Sat, 30 Dec 2023 08:31:54 -0500</pubDate>
+      
+      <guid>/base-de-connaissances/principe-de-fonctionnement-des-switchs-adapt%C3%A9es/</guid>
+      <description>Comment est-ce qu&amp;rsquo;une switch adaptée fonctionne et quelles en sont les composantes?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/base-de-connaissances/principe-de-fonctionnement-des-switchs-adapt%C3%A9es/featured_switch.webp" />
+    </item>
+    
+    <item>
+      <title>Projets divers</title>
+      <link>/cr%C3%A9ateurs/cr%C3%A9ations-diverses/</link>
+      <pubDate>Sat, 30 Dec 2023 08:31:54 -0500</pubDate>
+      
+      <guid>/cr%C3%A9ateurs/cr%C3%A9ations-diverses/</guid>
+      <description>Divers projets réalisés dans le cadre d&amp;rsquo;un milieu scolaire spécialisé.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cr%C3%A9ateurs/cr%C3%A9ations-diverses/featured_inventiondiverses.webp" />
+    </item>
+    
+    <item>
+      <title>Switch adaptée</title>
+      <link>/cr%C3%A9ateurs/switch-adapt%C3%A9e/</link>
+      <pubDate>Sat, 30 Dec 2023 08:31:54 -0500</pubDate>
+      
+      <guid>/cr%C3%A9ateurs/switch-adapt%C3%A9e/</guid>
+      <description>Bouton adapté standard, résistant, simple d&amp;rsquo;assemblage et peu coûteux.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/cr%C3%A9ateurs/switch-adapt%C3%A9e/featured_switch.jpg" />
+    </item>
+    
+    <item>
+      <title>Contrôleur d&#39;environnement</title>
+      <link>/guides-dutilisation/contr%C3%B4leur-denvironnement/</link>
+      <pubDate>Sat, 30 Dec 2023 08:29:09 -0500</pubDate>
+      
+      <guid>/guides-dutilisation/contr%C3%B4leur-denvironnement/</guid>
+      <description>Le contrôleur d’environnement permet à une personne avec des besoins spéciaux de contrôler des appareils électriques via une prise standard nord-américaine, comme on en retrouve dans tous les foyers au Québec.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/guides-dutilisation/contr%C3%B4leur-denvironnement/featured_contr%C3%B4leur%20d%27environnement.png" />
+    </item>
+    
+    <item>
+      <title>Jeux eyegaze</title>
+      <link>/guides-dutilisation/jeux-tests/</link>
+      <pubDate>Sat, 30 Dec 2023 08:29:09 -0500</pubDate>
+      
+      <guid>/guides-dutilisation/jeux-tests/</guid>
+      <description>test</description>
+      
+    </item>
+    
+    <item>
+      <title>Jouets adaptés</title>
+      <link>/guides-dutilisation/switch-et-jouet-adapt%C3%A9/</link>
+      <pubDate>Sat, 30 Dec 2023 08:29:09 -0500</pubDate>
+      
+      <guid>/guides-dutilisation/switch-et-jouet-adapt%C3%A9/</guid>
+      <description>Les jouets adaptés permettent à des personnes ayant des capacités différentes de combler un besoin fondamental chez l&amp;rsquo;être humain, soit celui de jouer!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/guides-dutilisation/switch-et-jouet-adapt%C3%A9/featured%20jouet%20adapt%C3%A9.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guides d&#39;utilisation on Adaptatech</title>
+    <link>/guides-dutilisation/</link>
+    <description>Recent content in Guides d&#39;utilisation on Adaptatech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Aucun copyright</copyright>
+    <lastBuildDate>Sat, 30 Dec 2023 08:39:33 -0500</lastBuildDate><atom:link href="/guides-dutilisation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contrôleur d&#39;environnement</title>
+      <link>/guides-dutilisation/contr%C3%B4leur-denvironnement/</link>
+      <pubDate>Sat, 30 Dec 2023 08:29:09 -0500</pubDate>
+      
+      <guid>/guides-dutilisation/contr%C3%B4leur-denvironnement/</guid>
+      <description>Le contrôleur d’environnement permet à une personne avec des besoins spéciaux de contrôler des appareils électriques via une prise standard nord-américaine, comme on en retrouve dans tous les foyers au Québec.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/guides-dutilisation/contr%C3%B4leur-denvironnement/featured_contr%C3%B4leur%20d%27environnement.png" />
+    </item>
+    
+    <item>
+      <title>Jeux eyegaze</title>
+      <link>/guides-dutilisation/jeux-tests/</link>
+      <pubDate>Sat, 30 Dec 2023 08:29:09 -0500</pubDate>
+      
+      <guid>/guides-dutilisation/jeux-tests/</guid>
+      <description>test</description>
+      
+    </item>
+    
+    <item>
+      <title>Jouets adaptés</title>
+      <link>/guides-dutilisation/switch-et-jouet-adapt%C3%A9/</link>
+      <pubDate>Sat, 30 Dec 2023 08:29:09 -0500</pubDate>
+      
+      <guid>/guides-dutilisation/switch-et-jouet-adapt%C3%A9/</guid>
+      <description>Les jouets adaptés permettent à des personnes ayant des capacités différentes de combler un besoin fondamental chez l&amp;rsquo;être humain, soit celui de jouer!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/guides-dutilisation/switch-et-jouet-adapt%C3%A9/featured%20jouet%20adapt%C3%A9.png" />
+    </item>
+    
+  </channel>
+</rss>
